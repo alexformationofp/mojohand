@@ -1,0 +1,109 @@
+@font-face {
+	/*font-family: "CODE Bold"; src: url('polices/CODE-Bold.otf');
+    font-family: "MYRIADPRO-BOLD"; 	src: url('polices/myriadpro-bold.otf');
+    font-family: "MYRIADPRO-REGULAR"; src: url('polices/MYRIADPRO-REGULAR.OTF');
+    font-family: "Quadranta-Bold"; src: url('polices/Quadranta-Bold.otf');
+    font-family: "Blenda Script"; src: url('polices/Blenda-Script.otf');*/
+    font-family: "Folks-Normal"; src: url('polices/Folks-Normal.otf');
+   }
+   
+@font-face {
+	font-family: "CODE Bold"; src: url('polices/CODE-Bold.otf'); 
+    }
+
+html{
+    font-family: "Folks-Normal";
+}
+
+nav a, nav p {
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px #000;
+    font-family: "MYRIADPRO-BOLD";
+    vertical-align: middle;
+}
+
+nav a:hover{
+    /*-webkit-transition: font-size 0.5s linear;
+    -moz-transition: font-size 0.5s linear;
+    -ms-transition: font-size 0.5s linear;
+    -o-transition: font-size 0.5s linear;
+    transition: font-size 0.5s linear;*/
+    font-size: 2.5em;
+    color: #cb7e10;
+    vertical-align: top;
+    margin-top: -3%;
+}
+
+/*nav a:active{
+    font-size: 3em;
+    color: #cb7e10;
+    vertical-align: top;
+    margin-top: -3%;
+
+}*/
+
+.colonne p, p.zicos {
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(255,255,255,1);
+    /*text-shadow: 2px 2px 2px #000;*/
+    font-family: CODE-Bold;
+}
+
+li {
+	text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+}
+
+li.actif{
+	background-color: #cb7e10;
+	/*border-radius: 5px;*/
+}
+
+nav li {
+   
+    
+    width: 19.7%;
+    height: 100%;
+    vertical-align: middle;
+   }
+   
+h2{
+	text-align: center;
+	padding: 2%;
+	font-family: "CODE Bold";
+	font-size: 3em;
+	color: rgba(255,255,255,1);
+    /*text-transform: uppercase;
+    text-shadow: 4px 4px 4px #000;*/
+}
+
+.colonne h2, h2.dates{
+	font-size: 3em;
+}
+
+h3 {
+	font-size: 2.2em;
+	/*color: rgba(255,255,255,1);
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px #000;
+    font-family: "CODE-Bold";*/
+	
+}
+
+td{
+	font-size: 2em;
+}

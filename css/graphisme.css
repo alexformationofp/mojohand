@@ -1,0 +1,33 @@
+
+
+html {
+    background-image: url("../images-contenu/grey_wash_wall.png");
+    height:100%;
+    background-attachment: fixed;
+   	/*background-image: url("images-interface/chicago2.jpg") no-repeat top center fixed;
+   	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    height:100%;*/
+}
+
+body {
+	background-color: rgba(255,255,255,0.2);
+}
+
+nav{
+	border-bottom-style:solid;
+	border-bottom-width:2px;
+	border-color:#cb7e10;
+}
+
+.titre {
+    background-image: url("images-interface/chicago2.jpg")
+}
+
+iframe {
+	/*border: 2px solid #cb7e10;*/
+	background-attachment: fixed;
+	/*border-radius: 3%;*/
+}

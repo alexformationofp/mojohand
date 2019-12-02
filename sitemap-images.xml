@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://www.mojohand.fr</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/MojoHand.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/fimu.jpg</image:loc>
+            <image:geo_location>FIMU-BELFORT</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/groupe.png</image:loc>
+            <image:geo_location>Saignelégier</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/moraine.jpg</image:loc>
+            <image:geo_location>Lepuix-gy</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/didpreslarose_07.jpg</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.mojohand.fr/index.php</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/MojoHand.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/fimu.jpg</image:loc>
+            <image:geo_location>FIMU-BELFORT</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/groupe.png</image:loc>
+            <image:geo_location>Saignelégier</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/moraine.jpg</image:loc>
+            <image:geo_location>Lepuix-gy</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/didpreslarose_07.jpg</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.mojohand.fr/musique-belfort-franche-comte-suisse-alsace-concert-blues-rock-swing.php</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/MojoHand.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.mojohand.fr/groupe-musique-belfort-franche-comte-suisse-alsace-concert-blues-rock-swing-basse-batterie-guitare-harmonica.php</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/menu1.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/thebandgilles.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/thebanddid.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/thebandchris.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.mojohand.fr/photos-groupe-musique-belfort-franche-comte-suisse-fimu-festival-concert-montbeliard.php</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/MojoHand.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+                       
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/01gilles3.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/02alex.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/03did4.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/04scene2.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/05gilles.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/06scene5.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/07scene4.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/08alex3.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/09did.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/10gilles2.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/11gilles5.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/12did2.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/13alex4.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/14scene.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/15gilles6.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/16did3.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/17scene3.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/18gilles7.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+            <image:title>FIMU Festival Belfort</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390036.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390037.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390044.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390045.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390046.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390047.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390049.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390055.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390056.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390064.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390065.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390074.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390078.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/P1390100.jpg</image:loc>
+            <image:geo_location>Lepuix-Gy</image:geo_location>
+            <image:title>Mojo Hand à l'Auberge des Moraines</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND000.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND004.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND005.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND008.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND011.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND012.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND013.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND020.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND022.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND025.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND029.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND032.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND033.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND037.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND041.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND046.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/MOJOHAND027.JPG</image:loc>
+            <image:geo_location>Montbéliard</image:geo_location>
+            <image:title>Mojo Hand Estivales du Pres-la-rose</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.mojohand.fr/concert-musique-belfort-franche-comte-suisse-alsace-blues-rock-swing-guitare-harmonica.php</loc>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/logomojohand.png</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.frimagesmojo/MojoHand.jpg</image:loc>
+            <image:geo_location>Belfort</image:geo_location>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.mojohand.fr/imagesmojo/Affiche-Mojo-Hand-Shannons-2-mai-2015.jpg</image:loc>
+            <image:geo_location>Delémont</image:geo_location>
+            <image:title>Mojo Hand Shannons Irish Bar</image:title>
+        </image:image>
+       
+    </url>
+</urlset>

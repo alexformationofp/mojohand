@@ -1,0 +1,48 @@
+.centre{
+    width: 548px;
+}
+
+nav a{
+    font-size: 1em;
+    padding-right: 17px;
+
+}
+.sousnav {
+    width: 455px;
+}
+h1{
+    padding-top: 14px;
+}
+.principale {
+    padding-top: 166px;
+}
+.fader {
+    height: 170px;
+}
+.mini {
+    display: inline-block;
+    height: 104px;
+    width: 104px;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.prochainconcert, .autresconcert {
+    width: 95%;
+    float: none;
+    margin: 0;
+}
+.detailsconcert{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 20px;
+}
+.prochainconcert img {
+    width: 40%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+.autresconcert {
+    margin-top: 20px;
+}

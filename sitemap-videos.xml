@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+    <url>
+        <loc>http://www.mojohand.fr/musique-belfort-franche-comte-suisse-alsace-concert-blues-rock-swing.php</loc>
+      
+            
+        <video:video>
+            <video:thumbnail_loc>http://www.mojohand.fr/imagesmojo/mini01gilles3.jpg</video:thumbnail_loc>
+            <video:title>Taylor Made by Mojo Hand</video:title>
+            <video:description>Taylor Made, le premier clip de Mojo Hand, tourné et enregistré lors de la soirée des anciens de l'IUT SRC Média de Montbéliard. Même les jeunes semblent apprécier le blues !</video:description>
+            <video:category>Music</video:category>
+            <video:player_loc allow_embed="yes" >https://www.youtube.com/watch?v=wmfX1TDao5c</video:player_loc>
+        </video:video>
+               
+    </url>
+   
+    
+</urlset>

@@ -1,0 +1,193 @@
+@font-face {
+    font-family: 'Airstream';
+    src: url('policemariage/Airstream.ttf');
+    src: local('?'),
+    url('policemariage/Airstream.ttf') format('truetype'),
+}
+
+@font-face {
+    font-family: 'seasrn';
+    src: url('policemariage/seasrn.ttf');
+    src: local('?'),
+    url('policemariage/seasrn.ttf') format('truetype'),
+}
+
+@font-face {
+    font-family: 'lobster';
+    src: url('policemariage/lobster.otf');
+    src: local('?'),
+    url('policemariage/lobster.otf') format('otf'),
+}
+
+@font-face {
+    font-family: 'kozgo';
+    src: url('policemariage/kozgo.otf');
+    src: local('?'),
+    url('policemariage/kozgo.otf') format('otf'),
+}
+
+
+html {
+    background-image: url(images/roses2.jpg);
+    background-attachment: fixed;
+}
+
+body {
+    
+    font-family:Arial, sans-serif;
+}
+
+
+div, p, h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+
+.baniere{
+    max-width: 800px;
+    position: fixed;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 800px;
+}
+
+div.programme{
+    display: block;
+      padding: 2% 1%;
+    border-radius: 10px;
+	margin: 2% 0;
+}
+
+div.tiers{
+    width: 24%;
+    display: inline-block;
+   }
+    
+div.introduction{
+	 border-radius: 10px; 
+	 overflow: hidden;
+    margin-top: -6px;
+}
+
+div.tierscentre{
+    width: 49%;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.fantome{
+	height:200px;
+	
+    
+}
+.programme img{
+    display: inline-block;
+    width: 19%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+
+    
+.texte {
+    width: 80%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.intro {
+    text-align: center;
+    background-color: #BF0713;
+ }
+div.programme{
+    background-color: #ffffff;
+}
+
+div.date{
+    background-color: #BF0713;
+}
+h1 {
+    font-family:"seasrn", Helvetica, Arial, sans-serif;
+    font-size:2em;
+    padding: 1%;
+    background-color: #ffffff;
+    text-align: center;
+   }
+.date h1{
+    font-family:"lobster", Helvetica, Arial, sans-serif;
+    font-size:3.5em; 
+    padding: 2% 0;
+    margin: 0 auto; 
+    display: inline-block;
+    text-align: center;
+    background-color: #BF0713;
+    color: white;
+    text-shadow: 
+	#000000 1px 1px 1px, 
+	#000000 -1px 1px 1px, 
+	#000000 -1px -1px 1px, 
+	#000000 1px -1px 1px; 
+
+}
+
+.date img{
+    display: block;
+    width: 50%;
+    padding: 0 1%;
+    margin: 0 auto;
+}
+h2 {
+    font-family:"lobster", Helvetica, Arial, sans-serif;
+    font-size:2.1em;
+   }
+
+h5.en-rouge {
+	color: red;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+h5{
+	color: black;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+
+@media screen and (max-width: 800px) {
+	.baniere{
+    max-width: 300px;
+    position: fixed;
+	}
+	
+	body{
+	    margin: 0 auto;
+	    padding: 0;
+	    max-width: 300px;
+    }
+    div.fantome{
+	height:80px;
+	background-color: red;
+	}
+	.date h1{
+    font-size:1.5em;
+    }
+    h1 {
+    font-size:1em; 
+    }
+    h2{
+    	font-size: 1em;
+    }
+}

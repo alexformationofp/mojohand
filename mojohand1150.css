@@ -1,0 +1,45 @@
+
+.sousnav {
+    width: 735px;
+    display: inline-block;
+    text-align: left;
+}
+
+nav a {
+    padding-right: 34px;
+    font-size: 1em;
+}
+.centre{
+    width: 826px;
+}
+
+div#slider{
+    top: 170px;
+}
+#l5, #l6 {
+    font-size: 1em;
+    width: 18px;
+    padding-right: 0;
+    padding-left: 4px;
+    margin-right: 0;
+}
+.icone {
+    width: 18px;
+}
+.social{
+    width: 55px;
+}
+.mini {
+    display: inline-block;
+    height: 114px;
+    width: 114px;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.autresconcert h2, .autresconcert li, .concerts p {
+    display: block;
+}
+
+.prochainconcert {
+    width: 30%;
+}

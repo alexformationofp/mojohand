@@ -1,0 +1,137 @@
+
+
+body{
+    background-image: url(images/captureroses.jpg);
+    background-repeat: no-repeat;
+    background-size : cover;
+    border: 0;
+    padding: 0;
+    
+}
+.accueilgauche, .accueildroite{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 29%;
+    padding-top: 100px
+}
+.accueilcentre {
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    margin-top: -10px;
+    vertical-align: top
+
+
+}
+
+.lieninfos{
+    padding-top: 50px}
+
+a:hover img{
+    -webkit-transform: scale(1.02);
+    transform: scale(1.02);
+}
+img{
+    -webkit-transition: transform 0.2s linear;
+    -moz-transition: transform 0.2s linear;
+    -ms-transition: transform 0.2s linear;
+    -o-transition: transform 0.2s linear;
+    transition: transform 0.2s linear;
+}
+
+.accueilgauche img, .accueildroite img {
+    width:60%}
+
+.accueilcentre img{
+    width:100%}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX SE LOGER XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+
+.dormirgauche{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 29%;
+}
+.dormirdroite{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 29%;
+}
+.dormircentre {
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    margin-top: -10px;
+    vertical-align: top;
+    background-image: url(images/fondpages.png);
+    background-repeat: no-repeat;
+    background-size : cover;
+    min-height: 920px;
+    
+}
+
+.cadreplan{width: 70%;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-style: double;
+    border-width: 12px;
+    background-color: #ffffff;
+}
+    
+.plan{width: 85%;
+    margin: 0 auto;
+    padding-bottom: 37px;
+}
+.dormircontenucentre{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.dormircontenucentreaccueil{
+    padding-top: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+h1{
+    margin-bottom: 35px;
+}
+
+footer{
+    background-color: #000000;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+.dessin{
+    width: 70%;
+    margin: 0 auto;
+}
+.information{
+    margin-bottom: 80px;
+}
+.soireerock{
+    min-height: 890px;
+}
+.rockstyle{
+    width: 100%;
+}
+.diapos{
+    width: 80%;
+    margin: 0 auto;
+}
+.miniatures{
+    display: inline-block;
+    width: 47%;
+    margin: 0;
+    padding: 3px;
+}
+    

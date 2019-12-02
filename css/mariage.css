@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/captureroses.png);
+    background-repeat: no-repeat;
+   
+    border: 0;
+    padding: 0;
+}
+.gauche, .droite{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    
+    height: 800px;
+}
+.centre {
+    width: 48%;
+    display: inline-block;
+    text-align: center
+}
